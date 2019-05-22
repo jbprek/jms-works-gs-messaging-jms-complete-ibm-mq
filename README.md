@@ -10,5 +10,7 @@ References
 
 [Original Guide](https://spring.io/guides/gs/messaging-jms/)
 
-[Run IBM MQ using Docker](C:\Users\john\Projects\MessagingWorks\jms-works-gs-messaging-jms-complete-ibm-mq)
+[Run IBM MQ using Docker](https://developer.ibm.com/messaging/learn-mq/mq-tutorials/mq-connect-to-queue-manager/#docker)
+
+
 
