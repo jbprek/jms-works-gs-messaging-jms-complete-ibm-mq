@@ -1,7 +1,7 @@
 Spring Guide adapted for use with IBM-MQ
 ========================================
 
-Spring Guide adapted for use wiht IBM-MQ. Needs a running instance of IBM-MQ.
+Spring Guide adapted for use with IBM-MQ. Needs a running instance of IBM-MQ.
 See in the references below how to install a docker instance.
 
 
